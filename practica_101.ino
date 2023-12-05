@@ -1,4 +1,10 @@
-// C++ code
+/************************************************************************************
+* Repositorio da práctica 10 para encendido de dous leds alternativamente en arduíno.
+* Autor: Javi Figueiro
+* Data:05/12/23
+************************************************************************************/
+  
+  // C++ code
 //
 void setup()
 {
